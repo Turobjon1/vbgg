@@ -1,0 +1,22 @@
+.prices{
+    width: 500px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.price{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    height: 30px;
+}
+
+.price button{
+    background:rgb(238, 112, 112);
+    color: white;
+    border: none;
+    padding: 3px 8px;
+    border-radius: 5px;
+}
